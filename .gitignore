@@ -1,0 +1,5 @@
+pkg/*
+*.gem
+.bundle
+whitelist_params_for.komodoproject
+README.html

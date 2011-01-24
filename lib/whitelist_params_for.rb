@@ -1,0 +1,3 @@
+module WhitelistParamsFor
+  # Your code goes here...
+end
