@@ -36,7 +36,7 @@ The keys of the paramater to allow
 
       whitelist_params_for :user,
         :create => [:name, :email, :password, :password_confirmation],
-        :update => [:name, :email]
+        :update => [:name, :email],
         [:clean, :hide] => [:password]
 
 
