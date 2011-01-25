@@ -1,0 +1,264 @@
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 10245ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 153916ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed   in 168100ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 1ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 1ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 1ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#create as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms
+  Processing by StubResourcesController#index as HTML
+  Parameters: {"data"=>{"name"=>"Glen Mailer", "title"=>"Mr", "status"=>"admin", "email"=>"glen@epigenesys.co.uk"}}
+Completed 200 OK in 0ms

@@ -1,0 +1,128 @@
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:35:14 +0000 2011
+
+ActionController::RoutingError (No route matches "/"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 8ms (Views: 7.9ms)
+
+
+Started GET "/javascripts/prototype.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/prototype.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/javascripts/effects.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/javascripts/dragdrop.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/javascripts/controls.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/javascripts/rails.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/rails.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/javascripts/effects.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/effects.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/javascripts/dragdrop.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/dragdrop.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/javascripts/controls.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/controls.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/javascripts/rails.js" for 127.0.0.1 at Tue Jan 25 11:35:34 +0000 2011
+
+ActionController::RoutingError (No route matches "/javascripts/rails.js"):
+  
+
+Rendered /Library/Ruby/Gems/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:35:48 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 5ms (Views: 5.1ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:35:50 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6ms (Views: 5.4ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:35:51 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 9ms (Views: 8.2ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:35:51 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6ms (Views: 5.5ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:35:52 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6ms (Views: 5.6ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:36:08 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 6ms (Views: 5.7ms)
+
+
+Started GET "/" for 127.0.0.1 at Tue Jan 25 11:36:18 +0000 2011
+  Processing by DummyController#index as HTML
+Rendered dummy/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 5ms (Views: 4.9ms)
